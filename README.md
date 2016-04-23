@@ -1,4 +1,6 @@
 # nhseventapp
+
+[![Join the chat at https://gitter.im/oturnermajor/nhseventapp](https://badges.gitter.im/oturnermajor/nhseventapp.svg)](https://gitter.im/oturnermajor/nhseventapp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 App for nhs customers to quickly find event near them
 
 ### User stories
